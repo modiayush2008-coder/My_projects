@@ -1,4 +1,4 @@
 # My_projects
-<h1>Author - Ayush Modi<\h1>
+<h1>Author - Ayush Modi
 <br>
-<p>This is my first github repository<\p>
+<p>This is my first github repository
